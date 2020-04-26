@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  color: red;
+}
+
+.home {
+  background: url(/static/photos/wallstr.jpg) no-repeat 50% 50%;
+  background-size: cover;
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.main-nav-bar {
+  background-color: #484848;
+}
+
+.landing-text {
+  height: 100vh;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
